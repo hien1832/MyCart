@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Cart</string>
+    <string name="search_hint">Search Product Name</string>
+    <string name="search_not_found">No Products Found</string>
+    <string name="already_in_cart">Already in the Cart</string>
+    <string name="added_to_cart">Added to Cart</string>
+    <string name="total_tile">Total</string>
+    <string name="checkout">Checkout</string>
+</resources>
